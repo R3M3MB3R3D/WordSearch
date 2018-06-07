@@ -1,0 +1,10 @@
+Fire was found 4 times.
+Water was found 1 times.
+Earth was found 2 times.
+Air was found 2 times.
+Avatar was found 4 times.
+Tribe was found 0 times.
+Kingdom was found 1 times.
+Nation was found 2 times.
+Nomad was found 0 times.
+my was found 3 times.
